@@ -29,12 +29,16 @@ A simple yet powerful Python-based data analysis application that automates basi
 ```bash
 git clone git@github.com:ninihuynh/DataAnalysisApp.git
 cd DataAnalysisApp
+```
 
 ### 2. Create and Activate a Virtual Environment
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
 ### 3. Run the App
+```bash
 python3 data_analysis.py
 
 
